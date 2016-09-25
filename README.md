@@ -1,1 +1,1 @@
-# slide-puzzle
+#Slide Puzzle
